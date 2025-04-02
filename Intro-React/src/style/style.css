@@ -1,0 +1,25 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.botao{
+    padding: 10px;
+    background-color: crimson;
+    color: white;
+    border-radius: 5px;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-pricipal{
+    height: 100vh;
+}
